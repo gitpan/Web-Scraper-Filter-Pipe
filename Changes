@@ -1,0 +1,10 @@
+---
+global:
+  name: Web-Scraper-Filter-Pipe
+releases:
+  - author: 'Marcel Gruenauer <marcel@cpan.org>'
+    changes:
+      - original version
+    date: 2007-11-25T20:12:44Z
+    tags: []
+    version: 0.01
